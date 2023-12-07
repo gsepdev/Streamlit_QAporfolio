@@ -107,7 +107,7 @@ if selected == "Projects":
     img_project1_form=Image.open("images/QAportfolio.jpg")
     img_project2_form=Image.open("images/Testsuit.png")
     img_project3_form=Image.open("images/SeleniumIDE.png")
-    img_project4_form=Image.open("images/Azure-devops.jpg")
+    img_project4_form=Image.open("images/azure-devops.jpg")
     img_project5_form=Image.open("images/python.png")
   
 
