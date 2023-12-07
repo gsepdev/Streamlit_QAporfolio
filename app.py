@@ -104,11 +104,11 @@ if selected == "Skills":
     
 if selected == "Projects":
     st.title(f" QA   {selected}")
-    img_project1_form=Image.open("C:/StreamlitProjects/venvportfolio/images/QAportfolio.jpg")
-    img_project2_form=Image.open("C:/StreamlitProjects/venvportfolio/images/Testsuit.png")
-    img_project3_form=Image.open("C:/StreamlitProjects/venvportfolio/images/SeleniumIDE.png")
-    img_project4_form=Image.open("C:/StreamlitProjects/venvportfolio/images/Azure-devops.jpg")
-    img_project5_form=Image.open("C:/StreamlitProjects/venvportfolio/images/python.png")
+    img_project1_form=Image.open("images/QAportfolio.jpg")
+    img_project2_form=Image.open("images/Testsuit.png")
+    img_project3_form=Image.open("images/SeleniumIDE.png")
+    img_project4_form=Image.open("images/Azure-devops.jpg")
+    img_project5_form=Image.open("images/python.png")
   
 
     with st.container():
